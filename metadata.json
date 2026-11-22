@@ -1,0 +1,6 @@
+{
+  "name": "Bản Tin Truyền Hình VKSND Khu Vực 3 - Quảng Trị",
+  "description": "Hệ thống biên tập kịch bản phân cảnh, tạo giọng đọc phát thanh viên tiếng Việt và dựng xuất video bản tin truyền hình Full HD 16:9 cho Viện Kiểm sát nhân dân Khu vực 3 - Quảng Trị.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
